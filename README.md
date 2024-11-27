@@ -124,6 +124,30 @@
     <td>
 </table>
 
+<h2 align="left">Cenáriios escolhidos </h2>
+
+<p align="left">
+  <ul>
+    <li>Gerenciamento de carrinho de compras</li>
+    <li>Processo de Checkout</li>
+  </ul>
+</p>
+
+<h2 align="left">Lingugens e Ferramentas utilizadas</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+</div>
+
+###
+
+
+
+
 
 
 
